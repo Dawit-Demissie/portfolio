@@ -17,7 +17,6 @@ body {
   line-height: 1.6px;
   font-size: 20px;
   font-family: "poppins", sans-serif;
-  padding: 5px;
 }
 * {
   margin: 0px;
@@ -175,13 +174,13 @@ ul {
   right: 0;
 }
 .aside .nav-toggler {
-  width: 45px;
-  height: 40px;
+  width: 30px;
+  height: 25px;
   border: 1px solid var(--bg-black-50);
   cursor: pointer;
   position: fixed;
-  left: 30px;
-  top: 20px;
+  left: 10px;
+  top: 10px;
   border-radius: 5px;
   background: var(--bg-black-100);
   display: flex;
@@ -212,7 +211,7 @@ ul {
   width: 18px;
   height: 2px;
   background: var(--skin-color);
-  top: 7px;
+  top: 6px;
   left: 0;
 }
 .aside .nav {
